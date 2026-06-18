@@ -1,0 +1,3 @@
+name,first_name,last_name,npi,city,state,specialty,primary_rating,primary_review_count,primary_most_recent_review,years_in_practice,online_scheduling,num_locations
+Jordan Alex Rivera,Jordan,Rivera,1000000001,Example City,XX,Family Medicine,4.5,80,2026-03-01,7,True,1
+Taylor Sam Whitfield,Taylor,Whitfield,1000000002,Example City,XX,Internal Medicine,4.2,30,2026-02-15,12,True,2

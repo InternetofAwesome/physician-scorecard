@@ -1,0 +1,20 @@
+{
+  "primary_rating": 50,
+  "primary_review_count": 80,
+  "primary_recency": 60,
+  "years_in_practice": 30,
+  "online_scheduling": 100,
+  "num_locations": 100,
+  "healthgrades": 50,
+  "healthgrades_board_cert": 50,
+  "ratemds": 50,
+  "open_payments": 80,
+  "pubmed": 80,
+
+  "_years_buckets": [
+    [0, 5, 50],
+    [5, 10, 100],
+    [10, 20, 80],
+    [20, 999, 30]
+  ]
+}
